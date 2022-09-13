@@ -12,5 +12,7 @@
 ## Cevap 2
 Big-O gösterimi **O(nlogn)**'dir.
 
+## [Patika Profilim](https://app.patika.dev/nurkaya)
+
 
 
